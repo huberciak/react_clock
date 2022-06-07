@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAClB,wBAA0B","file":"main.4f2b10bb.chunk.css","sourcesContent":[".App {\n  text-align: center;\n  text-transform: uppercase ;\n}\n"]}
